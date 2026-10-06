@@ -63,14 +63,14 @@ ClinShield does not automatically perform consequential clinical actions. A huma
 
 ```text
                     ┌──────────────────────────┐
-                    │ Synthetic Hospital      │
+                    │ Synthetic Hospital       │
                     │ Digital Twin             │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
                     │ Synthetic Cyber Events   │
-                    │ / Attack Simulation      │
+                    │ / Attack Simulation       │
                     └────────────┬─────────────┘
                                  │
                                  ▼
@@ -81,25 +81,25 @@ ClinShield does not automatically perform consequential clinical actions. A huma
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │ Clinical / Asset Impact  │
+                    │ Clinical / Asset Impact   │
                     │ Analysis                  │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │ Patient Safety Risk      │
+                    │ Patient Safety Risk       │
                     │ Engine                    │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │ Human Security Review    │
+                    │ Human Security Review     │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │ Simulated Response &     │
-                    │ Audit-Oriented Workflow  │
+                    │ Simulated Response &      │
+                    │ Audit-Oriented Workflow   │
                     └──────────────────────────┘
 ```
 
@@ -157,7 +157,7 @@ Patient Safety Risk =
   + Patient Impact × 25%
 ```
 
-The resulting score is categorized into risk levels such as:
+The resulting score is categorized into risk levels:
 
 | Risk Score | Level | Response Priority |
 |---|---|---|
@@ -252,7 +252,7 @@ Open a terminal in the project directory:
 cd backend
 ```
 
-Create and activate a Python virtual environment:
+Create a Python virtual environment:
 
 ```bash
 python -m venv venv
@@ -529,13 +529,11 @@ A `LICENSE` file will be included in the repository.
 **Track:** Hospital Network + Infrastructure
 
 **Repository:**  
-`https://github.com/mohammedsuhailmk/ClinShield2`
+`https://github.com/mohammedsuhailmk/ClinShield`
 
 **Final Commit / Tag / Release:** To be identified before submission.
 
 **Official KMCT Centre of Excellence GitHub Collaborator:** To be added using the official handle provided by the organizers.
-
----
 
 ## Disclaimer
 
